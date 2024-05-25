@@ -1,6 +1,6 @@
 # MLLM-Finetuning-Demo
 
-## 环境安装
+## 安装LLaMA-Factory
 
 ```shell
 git clone https://github.com/hiyouga/LLaMA-Factory.git
