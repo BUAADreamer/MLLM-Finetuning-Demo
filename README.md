@@ -32,3 +32,11 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \
 ```shell
 python3 upload_dataset.py
 ```
+
+## 导出和上传模型到huggingface
+
+请在 `config/llava_lora_sft_export.yaml` 中替换您自己的 `export_hub_model_id` 和 `hf_hub_token`.
+
+```shell
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli export config/llava_lora_sft_export.yaml
+```
