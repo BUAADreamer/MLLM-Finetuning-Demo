@@ -1,0 +1,71 @@
+[
+  {
+    "messages": [
+      {
+        "content": "他们是谁",
+        "role": "user"
+      },
+      {
+        "content": "他们是来自拜仁慕尼黑的主力中锋凯恩和主力中场格雷茨卡。",
+        "role": "assistant"
+      },
+      {
+        "content": "他们在做什么？",
+        "role": "user"
+      },
+      {
+        "content": "他们在拜仁慕尼黑主场激情庆祝。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "data/mllm_demo_data/1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "他是谁？",
+        "role": "user"
+      },
+      {
+        "content": "他是拜仁慕尼黑的功勋前锋托马斯穆勒。",
+        "role": "assistant"
+      },
+      {
+        "content": "他为什么在地上？",
+        "role": "user"
+      },
+      {
+        "content": "因为他正在双膝跪地滑行庆祝。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "data/mllm_demo_data/2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "请描述这张图像",
+        "role": "user"
+      },
+      {
+        "content": "中国航天员桂海潮正在发表演讲",
+        "role": "assistant"
+      },
+      {
+        "content": "他取得过哪些成就？",
+        "role": "user"
+      },
+      {
+        "content": "他于2022年6月被任命为神舟十六号任务的有效载荷专家，从而成为2023年5月30日进入太空的首位平民宇航员。他负责在轨操作空间科学实验有效载荷。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "data/mllm_demo_data/3.jpg"
+    ]
+  }
+]
