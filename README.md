@@ -9,13 +9,13 @@ pip install -e .[torch,metrics]
 cd .. # back to project root
 ```
 
-## finetuning
+## Finetuning
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli train config/llava_lora_sft.yaml
 ```
 
-## webchat
+## Webchat
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \
