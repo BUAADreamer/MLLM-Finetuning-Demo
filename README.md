@@ -1,21 +1,21 @@
 # MLLM-Finetuning-Demo
 
-## Enviroment
+## 环境安装
 
 ```shell
 git clone https://github.com/hiyouga/LLaMA-Factory.git
 cd LLaMA-Factory
 pip install -e .[torch,metrics]
-cd .. # back to project root
+cd .. # 回到项目根目录
 ```
 
-## Finetuning
+## 微调
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli train config/llava_lora_sft.yaml
 ```
 
-## Webchat
+## 网页聊天
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \
@@ -25,9 +25,9 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \
 --visual_inputs
 ```
 
-## upload dataset to huggingface
+## 上传数据集到Huggingface
 
-Please replace your real key in the `upload_dataset.py`.
+请在 `upload_dataset.py` 中替换您自己的key.
 
 ```shell
 python3 upload_dataset.py
