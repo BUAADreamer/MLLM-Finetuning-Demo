@@ -17,7 +17,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: saves/llava1_5-7b/lora/sft
+output_dir: saves/llava1_5-7b/full/pt
 logging_steps: 10
 save_steps: 500
 plot_loss: true
