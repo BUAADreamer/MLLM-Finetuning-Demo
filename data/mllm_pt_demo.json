@@ -11,7 +11,7 @@
       }
     ],
     "images": [
-      "pics/1.jpg"
+      "data/mllm_demo_data/1.jpg"
     ]
   },
   {
@@ -26,7 +26,7 @@
       }
     ],
     "images": [
-      "pics/2.jpg"
+      "data/mllm_demo_data/2.jpg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       }
     ],
     "images": [
-      "pics/3.jpg"
+      "data/mllm_demo_data/3.jpg"
     ]
   },
   {
@@ -56,7 +56,7 @@
       }
     ],
     "images": [
-      "pics/1.jpg"
+      "data/mllm_demo_data/1.jpg"
     ]
   },
   {
@@ -71,7 +71,7 @@
       }
     ],
     "images": [
-      "pics/2.jpg"
+      "data/mllm_demo_data/2.jpg"
     ]
   },
   {
@@ -86,7 +86,7 @@
       }
     ],
     "images": [
-      "pics/3.jpg"
+      "data/mllm_demo_data/3.jpg"
     ]
   }
 ]
