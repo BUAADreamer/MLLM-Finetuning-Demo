@@ -19,7 +19,7 @@
       }
     ],
     "images": [
-      "mllm_demo_data/1.jpg"
+      "pics/1.jpg"
     ]
   },
   {
@@ -42,7 +42,7 @@
       }
     ],
     "images": [
-      "mllm_demo_data/2.jpg"
+      "pics/2.jpg"
     ]
   },
   {
@@ -65,7 +65,7 @@
       }
     ],
     "images": [
-      "mllm_demo_data/3.jpg"
+      "pics/3.jpg"
     ]
   }
 ]

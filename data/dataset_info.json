@@ -13,8 +13,36 @@
       "assistant_tag": "assistant"
     }
   },
+  "mllm_pt_demo": {
+    "file_name": "mllm_pt_demo.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "mllm_demo_hf": {
     "hf_hub_url": "BUAADreamer/mllm_demo",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "mllm_pt_demo_hf": {
+    "hf_hub_url": "BUAADreamer/mllm_pt_demo",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages",
