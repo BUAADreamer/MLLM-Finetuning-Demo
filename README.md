@@ -13,7 +13,7 @@ cd .. # 回到项目根目录
 
 LLaVA中的特征对齐，冻结`language_model`和`vision_tower`，只微调`multi_modal_projector`。
 ```shell
-CUDA_VISIBLE_DEVICES=0 llamafactory-cli train config/llava_lora_pt.yaml
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli train config/llava_pt.yaml
 ```
 
 ## 微调
