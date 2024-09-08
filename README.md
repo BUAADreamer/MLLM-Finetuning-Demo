@@ -28,8 +28,7 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train config/llava_lora_sft.yaml
 CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \
 --model_name_or_path llava-hf/llava-1.5-7b-hf \
 --adapter_name_or_path saves/llava1_5-7b/lora/sft \
---template vicuna \
---visual_inputs
+--template llava
 ```
 
 ## 上传数据集到Huggingface
