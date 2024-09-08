@@ -2,7 +2,7 @@
   {
     "messages": [
       {
-        "content": "Render a clear and concise summary of the photo.",
+        "content": "<image>Render a clear and concise summary of the photo.",
         "role": "user"
       },
       {
@@ -17,7 +17,7 @@
   {
     "messages": [
       {
-        "content": "Write a terse but informative summary of the picture.",
+        "content": "Write a terse but informative summary of the picture.<image>",
         "role": "user"
       },
       {
@@ -32,7 +32,7 @@
   {
     "messages": [
       {
-        "content": "What is this?",
+        "content": "What is this?<image>",
         "role": "user"
       },
       {
@@ -47,7 +47,7 @@
   {
     "messages": [
       {
-        "content": "对照片进行简明扼要的概括。",
+        "content": "<image>对照片进行简明扼要的概括。",
         "role": "user"
       },
       {
@@ -62,7 +62,7 @@
   {
     "messages": [
       {
-        "content": "为图片写一个简短但内容丰富的摘要。",
+        "content": "为图片写一个简短但内容丰富的摘要。<image>",
         "role": "user"
       },
       {
@@ -77,7 +77,7 @@
   {
     "messages": [
       {
-        "content": "这是什么？",
+        "content": "<image>这是什么？",
         "role": "user"
       },
       {
